@@ -1,0 +1,6 @@
+{
+  "name": "DailyLife Hub",
+  "description": "Shaxsiy hayot boshqaruv tizimi: vazifalar, maqsadlar, moliya, odatlar, o‘qish va tahlillar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
